@@ -1,0 +1,32 @@
+.text{
+    font-weight: bold;
+    font-family: Dancing Script;
+}
+body{
+    background:var(div) (purple,blue);    
+    overflow: hidden;
+    text-align:justify;
+}
+#full {
+    padding-top:50px;
+    padding-bottom: 355px;
+}
+.text2{
+    font-size: 24px;
+    font-family: Verdana;
+    font-weight: bold;
+    color:purple;
+}
+.footer{
+    position:fixed;
+    color:red;
+    width:fit-content;
+    font-size: 24px;
+    background-color:gold;
+    margin-top:180px;
+    margin-left: 1500px;
+}
+#bell{
+    margin-top:200px;
+    margin-left:200px;
+}
